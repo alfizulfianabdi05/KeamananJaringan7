@@ -1,0 +1,5 @@
+Background
+A firewall is a system or device that allows network traffic that is considered safe for traffic through it and prevent an unsecured network. A system can be said to be safe if the system is coated with a variety of security systems. The more security the more secure system is also a system. But, we can not rule out the possibility that the system could not guarantee 100% security is maintained. It is necessary that the system is taken from various aspects to deter attacks from the outside, so that the security system can secure and create secure user.
+
+Explanation of Problems and Solutions
+Generally, a firewall is implemented in a dedicated machine, which runs on the gate (gateway) between the local network and other networks. Firewalls are also commonly used to control access to anyone who has access to a private network. To solve the above problems, there are some shield or armor that we can use to keep our system, especially on computers or devices that communicate with each other. Surely we already hear the familiar name of the firewall. Yes, a firewall is a rule in the network has access whether an IP packet sent can be accepted or not.
